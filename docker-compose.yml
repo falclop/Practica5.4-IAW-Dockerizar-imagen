@@ -1,0 +1,5 @@
+services:
+  2048-fabian:
+    image: falclop/2048-fabian:1.0
+    ports: 
+      - 8081:80

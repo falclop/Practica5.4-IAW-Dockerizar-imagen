@@ -14,4 +14,3 @@ RUN git clone https://github.com/josejuansanchez/2048 /app && \
 EXPOSE 80
 
 CMD [ "nginx", "-g", "daemon off;" ]
-# docker build -t falclop/2048-fabian:1.0 .
