@@ -173,3 +173,11 @@ jobs:
 
 ```  
 Lo que hará será subir la imagen a **DockerHub** cuando nosotros hagamos un push del repositorio.
+
+Primero se hace el push.  
+
+![](/images/9.png)  
+
+Y a continuación salta el trigger y se sube a **DockerHub**
+
+![](/images/10.png)
